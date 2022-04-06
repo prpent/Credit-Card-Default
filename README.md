@@ -1,10 +1,11 @@
-# Credit-Card-Default
-Project Title: I535-BigData-final project
+# Project Title: 
+I535-BigData-final project
 
-**Dataset Name:**Credit Card Default Payment in Taiwan
-
-**About the Dataset**
+# About the Dataset
 In recent years, the credit card issuers in Taiwan faced the cash and credit card debt crisis and the delinquency is expected to peak in the third quarter of 2006 (Chou,2006). In order to increase market share, card-issuing banks in Taiwan over-issued cash and credit cards to unqualified applicants. At the same time, most cardholders, irrespective of their repayment ability, overused credit card for consumption and accumulated heavy credit and cash–card debts. The crisis caused the blow to consumer finance confidence and it is a big challenge for both banks and cardholders
+
+# Dataset
+I used the [Credit Card Default payment in Taiwan] (https://archive.ics.uci.edu/ml/datasets/default+of+credit+card+clients) to predict whether the credit card holders are defaulters or Non-defaulters. The Dataset and its attributes are described below
 
 
 Dataset
@@ -35,3 +36,6 @@ PAY_AMT4: Amount of previous payment in June, 2005 (NT dollar)
 PAY_AMT5: Amount of previous payment in May, 2005 (NT dollar)
 PAY_AMT6: Amount of previous payment in April, 2005 (NT dollar)
 default.payment.next.month: Default payment (1=yes, 0=no)
+
+
+Area:financial
